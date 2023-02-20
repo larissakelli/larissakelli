@@ -5,4 +5,3 @@
 - my pronouns are she/they! 
 ***
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/larissa-kelli/)
-[<img src="https://img.shields.io/badge/Wix-000?style=for-the-badge&logo=wix&logoColor=white"/>](larissakamaral.wixsite.com/larissakelli)
