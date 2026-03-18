@@ -1,7 +1,7 @@
-### <i>welcome! :sparkles:</i>
+### <i>Welcome! :sparkles:</i>
 ***
-- my name is larissa and i am a game designer and researcher. i'm curious about everything and am always looking for new things to learn;
-- i am currently studying data science;
-- my pronouns are she/they! 
+Nice to meet you!
+I'm a developer with plenty of experience with games and game design, currently studying data analysis. I'm passionate about understanding the root of problems and designing smart solutions based on proven data.
+Please don't hesitate to get in touch!
 ***
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/larissa-kelli/)
